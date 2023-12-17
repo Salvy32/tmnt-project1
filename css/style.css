@@ -1,0 +1,55 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+body{
+  text-align: center;
+  background: black;
+}
+
+#leo{
+  height: 500px;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+.hidden{
+  display: none;
+}
+
+
+.leoBlue{
+  color: blue;
+}
+
+.ralphRed{
+  color: red;
+}
+
+.mikeyOrange{
+  color: orange;
+}
+
+.donniePurple{
+  color:purple;
+}
+
+h1{
+  color: green;
+  font-size: 100px;
+}
+
+h2{
+  font-size: 35px;;
+  float: left;
+  width: 25%;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
